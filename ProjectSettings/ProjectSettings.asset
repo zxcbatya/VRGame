@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a3191602dc42d3449819f9cd3944fdb3
+  productGUID: 9a9b46b89cfcb354a9b07ec1835c5cfb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VRGame
+  productName: VRGAME
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -915,14 +915,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: VRGame
+  metroPackageName: VRGAME
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VRGame
+  metroApplicationDescription: VRGAME
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -994,10 +994,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: d3b4f009-ff26-4cd5-b785-0cbca37dd786
+  cloudProjectId: 17bc3ac9-a85c-48e9-98b1-42ba9ba51116
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VRGame 2025-04-26_14-29-54
+  projectName: VRGAME
   organizationId: zxcbatya
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
